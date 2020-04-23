@@ -17,3 +17,12 @@
 ### ![Ruby](https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg)
 
 - [Ruby Koans](http://rubykoans.com)
+
+### ![Dart](https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg)
+
+- [Bootstrap into Dart](https://flutter.dev/docs/resources/bootstrap-into-dart)
+
+### ![Flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg)
+
+- [Flutter by Example](https://www.flutterbyexample.com)
+- [Flutter Cookbook](https://flutter.dev/docs/cookbook)
