@@ -6,7 +6,7 @@
 
 - [Rustlings](https://github.com/rust-lang/rustlings)
 
-### Elixir
+### ![Elixir](https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-ar21.svg)
 
 - [Elixir School](https://elixirschool.com)
 
