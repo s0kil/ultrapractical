@@ -26,3 +26,7 @@
 
 - [Flutter by Example](https://www.flutterbyexample.com)
 - [Flutter Cookbook](https://flutter.dev/docs/cookbook)
+
+### ![Python](https://www.vectorlogo.zone/logos/python/python-ar21.svg)
+
+- [Practical Python Programming](https://github.com/dabeaz-course/practical-python)
