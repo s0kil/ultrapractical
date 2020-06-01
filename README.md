@@ -30,3 +30,8 @@
 ### ![Python](https://www.vectorlogo.zone/logos/python/python-ar21.svg)
 
 - [Practical Python Programming](https://github.com/dabeaz-course/practical-python)
+
+### ![OCaml](https://www.vectorlogo.zone/logos/ocaml/ocaml-ar21.svg)
+
+- [Real World OCaml](https://dev.realworldocaml.org)
+- [OCamlverse](https://ocamlverse.github.io)
