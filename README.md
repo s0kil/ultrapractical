@@ -17,6 +17,7 @@
 ### ![Ruby](https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg)
 
 - [Ruby Koans](http://rubykoans.com)
+- [Ruby Monk](https://rubymonk.com)
 
 ### ![Dart](https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg)
 
