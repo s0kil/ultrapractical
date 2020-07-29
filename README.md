@@ -18,6 +18,7 @@
 
 - [Ruby Koans](http://rubykoans.com)
 - [Ruby Monk](https://rubymonk.com)
+- [ZetCode Ruby Tutorial](http://zetcode.com/lang/rubytutorial)
 
 ### ![Dart](https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg)
 
@@ -36,3 +37,7 @@
 
 - [Real World OCaml](https://dev.realworldocaml.org)
 - [OCamlverse](https://ocamlverse.github.io)
+
+### ![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg)
+
+- [JavaScript For Impatient Programmers](https://exploringjs.com/impatient-js)
