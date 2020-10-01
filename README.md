@@ -13,6 +13,8 @@
 ### ![Scala](https://www.vectorlogo.zone/logos/scala-lang/scala-lang-ar21.svg)
 
 - [Scala Exercises](https://www.scala-exercises.org)
+- [Hands-On Scala Programming](https://www.handsonscala.com)
+- [Scala at Light Speed](https://www.youtube.com/playlist?list=PLmtsMNDRU0BxryRX4wiwrTZ661xcp6VPM)
 
 ### ![Ruby](https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg)
 
@@ -41,3 +43,8 @@
 ### ![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg)
 
 - [JavaScript For Impatient Programmers](https://exploringjs.com/impatient-js)
+
+### ![Haskell](https://www.vectorlogo.zone/logos/haskell/haskell-ar21.svg)
+
+- [Haskell for Imperative Programmers](https://www.youtube.com/playlist?list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV)
+- [Practical Haskell - A Real World Guide to Programming](https://www.apress.com/book/9781484244791)
